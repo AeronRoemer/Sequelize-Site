@@ -1,3 +1,4 @@
+//set up with express app generator: https://expressjs.com/en/starter/generator.html
 const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
